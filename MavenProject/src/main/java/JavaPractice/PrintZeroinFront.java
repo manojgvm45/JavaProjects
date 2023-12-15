@@ -85,7 +85,7 @@ public class PrintZeroinFront {
 		}
 		public static void main(String[] args) {	
 				PrintZeroinFront zeroinFront = new PrintZeroinFront();
-				//zeroinFront.firstmethod();;
+				zeroinFront.firstmethod();;
 
 				zeroinFront.fourthMethod();
 		}
